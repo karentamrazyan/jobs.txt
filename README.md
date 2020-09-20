@@ -1,4 +1,5 @@
 # jobs.txt
+
 jobs.txt specification
 
 Separators: new line, pipe (|), ;.
@@ -27,7 +28,7 @@ Separators: new line, pipe (|), ;.
 
 ## Similar Concepts
 
-- robots.txt
+- [robots.txt](https://www.robotstxt.org/)
 - ads.txt
 
 ## TODOs
