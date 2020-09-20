@@ -29,3 +29,9 @@ Separators: new line, pipe (|), ;.
 
 - robots.txt
 - ads.txt
+
+## TODOs
+
+- create jobs.txt validator (/validator?)
+- create jobs.txt generator (/generator?)
+- write jobs.txt parser in JS, node
