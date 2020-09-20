@@ -32,3 +32,8 @@ Type: full time; part time; volunteer;
 ### JobPosting Structured Data
 
 https://developers.google.com/search/docs/data-types/job-posting
+
+## Similar Concepts
+
+- robots.txt
+- ads.txt
