@@ -17,11 +17,13 @@ Separators: new line, pipe (|), ;.
 - Employer: company name, e.g. Amazon
 - Type: full time; part time; volunteer; 
 
+## Challenges
+
+- description and other texts in multiple languages for the same job position
+
 ## Alternatives
 
-### JobPosting Structured Data
-
-https://developers.google.com/search/docs/data-types/job-posting
+[JobPosting Structured Data](https://developers.google.com/search/docs/data-types/job-posting)
 
 ## Similar Concepts
 
