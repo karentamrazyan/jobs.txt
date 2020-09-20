@@ -3,6 +3,8 @@ jobs.txt specification
 
 Separators: new line, pipe (|), ;.
 
+----------------------
+
 Role: e.g. Solution Architect
 
 Description: 
