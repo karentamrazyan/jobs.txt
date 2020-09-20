@@ -6,10 +6,10 @@ Separators: new line, pipe (|), ;.
 
 ## Fields / Properties
 
-- [mandatory, default] Role: e.g. Solution Architect
+- [mandatory, default] Role: (alt: Title: ?) e.g. Solution Architect
 - ID: 
-- Description: *no line breaks allowed*
-- Locations: remote
+- Description: *no line breaks allowed* *hacks: two blanks = new line, three blanks = new paragraph*
+- Locations: (Location: ?) remote
 - Contact: 
 - Salary: -> Compensation: (includes salary, equity)
 - Languages: 
@@ -17,7 +17,7 @@ Separators: new line, pipe (|), ;.
 - ? Keywords: -> Skills: 
 - Employer: company name, e.g. Amazon
 - Type: full time; part time; volunteer; 
-- Released: 
+- Released: (alt: Posted: ?)
 - Updated: 
 
 ## Challenges
