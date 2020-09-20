@@ -24,3 +24,9 @@ Updated:
 Employer: company name, e.g. Amazon
 
 Type: full time; part time; volunteer; 
+
+## Alternatives
+
+### JobPosting Structured Data
+
+https://developers.google.com/search/docs/data-types/job-posting
