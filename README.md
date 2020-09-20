@@ -7,14 +7,15 @@ Separators: new line, pipe (|), ;.
 ## Fields / Properties
 
 - [mandatory, default] Role: e.g. Solution Architect
+- ID: 
 - Description: *no line breaks allowed*
 - Locations: remote
 - Contact: 
-- Salary: 
+- Salary: -> Compensation: (includes salary, )
 - Languages: 
 - Released: 
 - Updated: 
-- ? Keywords: 
+- ? Keywords: -> Skills: 
 - Employer: company name, e.g. Amazon
 - Type: full time; part time; volunteer; 
 
