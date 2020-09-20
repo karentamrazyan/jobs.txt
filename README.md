@@ -16,9 +16,16 @@ Separators: new line, pipe (|), ;.
 - Travel: (can be in %)
 - ? Keywords: -> Skills: 
 - Employer: company name, e.g. Amazon
-- Type: full time; part time; volunteer; 
+- Type: full-time; part-time; volunteer; internship; contract
 - Released: (alt: Posted: ?)
 - Updated: 
+
+Vlad's suggestions: "Valid from: , Valid until: "
+
+EXAMPLE:
+
+Role: Solution Architect|ID: SL23454|Description: Bla-bla-bla|Location: remote, EU; Berlin, Germany; Paris, France|Contact: example.com/contact|Compensation: equity|Languages: English|Travel: 20%|Skills: aws; mongodb|Employer: Tesla Motors|Type: full-time|Released: 20-09-2020
+
 
 ## Challenges
 
