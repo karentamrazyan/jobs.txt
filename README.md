@@ -3,29 +3,19 @@ jobs.txt specification
 
 Separators: new line, pipe (|), ;.
 
-----------------------
+## Fields / Properties
 
-Role: e.g. Solution Architect
-
-Description: 
-
-Locations: remote
-
-Contact: 
-
-Salary: 
-
-Languages: 
-
-Released: 
-
-Updated: 
-
-? Keywords: 
-
-Employer: company name, e.g. Amazon
-
-Type: full time; part time; volunteer; 
+- [mandatory, default] Role: e.g. Solution Architect
+- Description: *no line breaks allowed*
+- Locations: remote
+- Contact: 
+- Salary: 
+- Languages: 
+- Released: 
+- Updated: 
+- ? Keywords: 
+- Employer: company name, e.g. Amazon
+- Type: full time; part time; volunteer; 
 
 ## Alternatives
 
