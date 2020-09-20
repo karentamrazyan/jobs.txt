@@ -11,13 +11,14 @@ Separators: new line, pipe (|), ;.
 - Description: *no line breaks allowed*
 - Locations: remote
 - Contact: 
-- Salary: -> Compensation: (includes salary, )
+- Salary: -> Compensation: (includes salary, equity)
 - Languages: 
-- Released: 
-- Updated: 
+- Travel: (can be in %)
 - ? Keywords: -> Skills: 
 - Employer: company name, e.g. Amazon
 - Type: full time; part time; volunteer; 
+- Released: 
+- Updated: 
 
 ## Challenges
 
