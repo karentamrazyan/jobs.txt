@@ -1,6 +1,6 @@
 # jobs.txt
 
-jobs.txt specification
+jobs.txt is an open and simple format to publish your open job offers. It is simple, because all the job offers of one employer cam be placed just in the file "jobs.txt". This file is easily readable by both humans and machines. The file should be placed into the root directory of the employer's website and be available at e.g. example.com/jobs.txt. This way it's very easily discoverable by both humans and machines.
 
 Separators: new line, pipe (|), ;.
 
